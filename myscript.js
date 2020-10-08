@@ -7,6 +7,13 @@
 //     console.log ، if ملاحظة: سوف تستخدم
 
 // 👇 هنا function عرف الدالة او
+function driving (z) {
+     console.log(`z+`);
+}
+
+driving (`18+`);
+driving (` 🚘😍 مبروك سوف تحصل على الليسن`);
+
 
 
 
@@ -21,6 +28,10 @@
 //     - console.log لطباعة قائمة نكهات الآيس كريم بإستخدام for loop استخدم
 
 // 👇 هنا array عرف المصفوفة او
+
+for (let iceCream=5; iceCream <10; iceCream++) {
+   console.log(`chocolate${iceCream}`)
+}
 
 
 
